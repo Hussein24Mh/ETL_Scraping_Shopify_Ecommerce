@@ -1,6 +1,6 @@
 # ETL Scraping Shopify E-commerce
 
-**In this project, I will scrape all birds Shopify store using the pagination method to rotate to all JSON file data and then store them in JSON file**
+**In this project, I will scrape all-birds Shopify store using the pagination method to rotate to all Products.JSON files data and then store them in JSON file**
 
 <img title="" src="Upwork_Shopify_Scraping.png" alt="banner that says hussein mahmoud data scientist">
 
